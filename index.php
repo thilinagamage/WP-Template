@@ -2,7 +2,7 @@
 <?php get_header(); ?>
 
     <div id="content" class="site-content">
-        <div id="primary" class="content-area">
+        <div id="primary" class="content-area container">
             <main id="main" class="site-main">
                 <section class="hero">
                     Hero

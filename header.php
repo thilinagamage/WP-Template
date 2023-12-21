@@ -3,7 +3,7 @@
 <head>
     <meta charset="<?php bloginfo(); ?>">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>WP DEV</title>
+    <?php wp_head();?>
 </head>
 <body <?php body_class(); ?>>
 <div id="page" class="site">
